@@ -1,0 +1,1 @@
+(self.webpackChunkreact_study=self.webpackChunkreact_study||[]).push([[845],{845:(e,t,l)=>{"use strict";l.r(t),l.d(t,{default:()=>n});var u=l(851),a=l(630);const n=function(e){console.log("MusicDetail--useParams",(0,a.UO)());var t=(0,a.UO)().id;return u.createElement("div",null,u.createElement("h1",null,"音乐详情页"),u.createElement("h1",null,t))}}}]);

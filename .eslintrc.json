@@ -1,0 +1,14 @@
+{
+  "parser":"babel-eslint",//babel的eslint编译
+  "parserOptions": {
+      "ecmaVersion": 6,
+      "sourceType": "module",
+      "ecmaFeatures": {
+          "jsx": true
+      }
+  },
+  "rules": {
+      "semi": "off",//报错  warn 黄色警告 'off' 不报错，不警告
+      "no-console": 0//同上 ， 等同于0,1,2三级，2为红色报错
+  }
+}
